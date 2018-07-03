@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AstroWeather</string>
+    <string name="action_settings">Settings</string>
+    <string name="moon_sun">MoonSun</string>
+    <string name="suntext">suntext</string>
+    <string name="settings">SETTINGS</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="go">GO</string>
+    <string name="temperature">temperature</string>
+    <string name="_30_deg_c">30 deg C</string>
+    <string name="humidity">humidity</string>
+    <string name="_1234">1234</string>
+    <string name="presure">presure</string>
+    <string name="_1000pa">1000Pa</string>
+    <string name="wind_speed">wind_speed</string>
+    <string name="_100">100</string>
+    <string name="wind_direction">wind_direction</string>
+    <string name="_187">187</string>
+    <string name="cloudness">cloudness</string>
+    <string name="_88">88</string>
+    <string name="weatherText">weatherText</string>
+    <string name="moon">moon</string>
+    <string name="sun">sun</string>
+    <string name="weather">weather</string>
+
+</resources>
